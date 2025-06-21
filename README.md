@@ -29,7 +29,18 @@ IntelligentSystemforParkingSpaceDetection is an intelligent parking space detect
    git clone https://github.com/EmmanuelSHYIRAMBERE/UrbanTrafficOptimizer.git
    cd UrbanTrafficOptimizer
    ```
+Create and activate a virtual environment:
 
+On Windows:
+```
+python -m venv venv
+venv\Scripts\activate
+```
+On macOS/Linux:
+```
+python3 -m venv venv
+source venv/bin/activate
+```
 2. Install the required dependencies:
 
    ```
